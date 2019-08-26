@@ -1,4 +1,4 @@
-package br.com.demomvc.controller;
+package br.com.demomvcxml.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
