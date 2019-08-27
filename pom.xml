@@ -43,6 +43,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>demomvc</finalName>
+		<finalName>demomvcxml</finalName>
 	</build>
 </project>
